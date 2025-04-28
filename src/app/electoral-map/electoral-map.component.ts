@@ -154,7 +154,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/VS.png'
+        iconUrl: 'assets/logo/VS.png'
       })
     }
 
@@ -162,7 +162,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/PAP_logo.png'
+        iconUrl: 'assets/logo/PAP_logo.png'
       })
     };
 
@@ -170,7 +170,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/PSP_logo.png'
+        iconUrl: 'assets/logo/PSP_logo.png'
       })
     };
 
@@ -178,7 +178,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/SDP_logo.png'
+        iconUrl: 'assets/logo/SDP_logo.png'
       })
     };
 
@@ -186,7 +186,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/NSP_logo.png'
+        iconUrl: 'assets/logo/NSP_logo.png'
       })
     };
 
@@ -194,7 +194,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/RDU_logo.png'
+        iconUrl: 'assets/logo/RDU_logo.png'
       })
     };
 
@@ -202,7 +202,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/PAR_logo.png'
+        iconUrl: 'assets/logo/PAR_logo.png'
       })
     };
 
@@ -210,7 +210,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/SPP_logo.png'
+        iconUrl: 'assets/logo/SPP_logo.png'
       })
     };
 
@@ -218,7 +218,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/WP_logo.png'
+        iconUrl: 'assets/logo/WP_logo.png'
       })
     };
 
@@ -226,7 +226,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/PPP_logo.png'
+        iconUrl: 'assets/logo/PPP_logo.png'
       })
     };
 
@@ -234,7 +234,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/SUP_logo.png'
+        iconUrl: 'assets/logo/SUP_logo.png'
       })
     };
 
@@ -242,7 +242,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/SDA_logo.png'
+        iconUrl: 'assets/logo/SDA_logo.png'
       })
     };
 
@@ -323,7 +323,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/Darryl-Lo-Kar-Keong.png'
+        iconUrl: 'assets/logo/Darryl-Lo-Kar-Keong.png'
       })
     };
     var darrylRMSMCMarker = L.marker([1.2520, 103.8327], darrylIcon).addTo(this.map);
@@ -402,7 +402,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
       icon: L.icon({
         iconSize: [ 25, 35 ],
         iconAnchor: [ 13, 0 ],
-        iconUrl: 'electoral-map/assets/logo/Tan-Wei-Yang,-Jeremy.png'
+        iconUrl: 'assets/logo/Tan-Wei-Yang,-Jeremy.png'
       })
     };
     var papMBSMCMarker = L.marker([1.3020, 103.8780], papIcon).addTo(this.map);
