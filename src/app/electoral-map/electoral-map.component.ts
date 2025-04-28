@@ -339,7 +339,7 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
     // Kebun Baru SMC
     var papKBSMCMarker = L.marker([1.3888, 103.8250], papIcon).addTo(this.map);
     var vsKBSMCIcon = L.marker([1.3838, 103.8250], vsIcon).addTo(this.map);
-    var sppKBSMCMarker = L.marker([1.3788, 103.8250], sppIcon).addTo(this.map);
+    var pspKBSMCMarker = L.marker([1.3788, 103.8250], pspIcon).addTo(this.map);
 
     // YCK SMC
     var papYCKSMCMarker = L.marker([1.3918, 103.8390], papIcon).addTo(this.map);
