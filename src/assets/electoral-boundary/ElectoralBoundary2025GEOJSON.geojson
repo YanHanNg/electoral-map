@@ -54772,7 +54772,16 @@
                 "ED_DESC_FU": "MARYMOUNT SMC",
                 "Name": "MARYMOUNT",
                 "NEW_ED": "MR",
-                "GEINFO": []
+                "GEINFO": [
+                    {
+                        "party": "PAP",
+                        "members": "Gan Siow Huang"
+                    },
+                    {
+                        "party": "PSP",
+                        "members": "Khoo Poh Tiong Jeffrey"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",
@@ -56769,7 +56778,16 @@
                 "ED_DESC_FU": "HOUGANG SMC",
                 "Name": "HOUGANG",
                 "NEW_ED": "HG",
-                "GEINFO": []
+                "GEINFO": [
+                    {
+                        "party": "PAP",
+                        "members": "Marshall Lim Yu Hui"
+                    },
+                    {
+                        "party": "WP",
+                        "members": "Dennis Tan Lip Fong"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Polygon",

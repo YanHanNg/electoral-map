@@ -419,5 +419,15 @@ export class ElectoralMapComponent implements OnInit, AfterViewInit {
     var parPPSMCCMarker = L.marker([1.3360, 103.8660], parIcon).addTo(this.map);
     var vsppSMCCIcon = L.marker([1.3360, 103.8710], vsIcon).addTo(this.map);
     var sppPPSMCMarker = L.marker([1.3360, 103.8760], sppIcon).addTo(this.map);
+
+    // Hougang SMC
+    var papTCSMCMarker = L.marker([1.3720, 103.9000], papIcon).addTo(this.map);
+    var vsTCSMCIcon = L.marker([1.3700, 103.8980], vsIcon).addTo(this.map);
+    var wpTCSMCMarker = L.marker([1.3680, 103.8960], wpIcon).addTo(this.map);
+
+    // Marymount SMC
+    var papMMSMCMarker = L.marker([1.3630, 103.8450], papIcon).addTo(this.map);
+    var vsMMSMCIcon = L.marker([1.3600, 103.8450], vsIcon).addTo(this.map);
+    var pspMMSMCMarker = L.marker([1.3570, 103.8450], pspIcon).addTo(this.map);
   }
 }
